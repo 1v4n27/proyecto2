@@ -1,0 +1,61 @@
+.elab {
+   width:360px;
+   height:290px;
+   padding:10px 50px;
+   border:8px solid #FFFFFF;
+   display:inline-block;
+   margin-left:12px;
+   margin-right:10px;
+}
+
+.limpieza {
+    width:500px;
+    height:;
+    position:relative;
+    top:20px; 
+    bottom:;
+    right:;
+    left:400px;
+    padding: 0px 0px 20px 0px;
+   border:8px solid #FFFFFF;
+   display:inline-block;
+   margin:0px;
+}
+
+.guitarras {
+    position:absolute;
+    height:350px;
+    top:500px; 
+    bottom:;
+    right:;
+    left:px;
+    border:8px solid #FFFFFF;
+    padding: 0px 0px 20px 0px;
+    margin-left:12px;
+}
+
+.pedales {
+    width:500px;
+    height:px;
+    position:relative;
+    top:150px; 
+    bottom:;
+    right:;
+    left:900px;
+    padding: 20px 20px 20px 20px;
+   border:8px solid #FFFFFF;
+   margin:0px;
+}
+
+.amplis {
+    width:500px;
+    height:px;
+    position:relative;
+    top:250px; 
+    bottom:;
+    right:;
+    left:500px;
+    padding: 20px 20px 20px 20px;
+   border:8px solid #FFFFFF;
+   margin:0px;
+}
